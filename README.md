@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pradeep P</h1>
 <h3 align="center">I am a Computer Science Engineering student, who is fascinated towards technology</h3>
+<br><br>
+👨‍💻 All of my projects are available at [pradeepjp2000.github.io/Portfolio/](pradeepjp2000.github.io/Portfolio/)
 
-- 👨‍💻 All of my projects are available at [pradeepjp2000.github.io/Portfolio/](pradeepjp2000.github.io/Portfolio/)
+💬 Ask me about **Java | C | HTML | CSS | SQL**
 
-- 💬 Ask me about **Java | C | HTML | CSS | SQL**
+📫 How to reach me **jppradeep2000@gmail.com**
 
-- 📫 How to reach me **jppradeep2000@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HpsIyPjQF8_LHeaU7j_3b9sB377NCbSw/view?usp=sharing](https://drive.google.com/file/d/1HpsIyPjQF8_LHeaU7j_3b9sB377NCbSw/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1HpsIyPjQF8_LHeaU7j_3b9sB377NCbSw/view?usp=sharing](https://drive.google.com/file/d/1HpsIyPjQF8_LHeaU7j_3b9sB377NCbSw/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
