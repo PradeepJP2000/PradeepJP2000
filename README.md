@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep P</h1>
 <h3 align="center">I am a Computer Science Engineering student, who is fascinated towards technology</h3>
 <br><br>
+
 👨‍💻 All of my projects are available at [pradeepjp2000.github.io/Portfolio/](pradeepjp2000.github.io/Portfolio/)
 
 💬 Ask me about **Java | C | HTML | CSS | SQL**
