@@ -2,13 +2,13 @@
 <h3 align="center">I am a Computer Science Engineering student, who is fascinated towards technology</h3>
 <br><br>
 
-👨‍💻 All of my projects are available at https://pradeepjp2000.github.io/Portfolio/
+👨‍💻 Portfolio https://pradeepjp2000.github.io/Portfolio/
 
 💬 Ask me about **Java | C | HTML | CSS | SQL**
 
 📫 How to reach me **jppradeep2000@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1HpsIyPjQF8_LHeaU7j_3b9sB377NCbSw/view?usp=sharing](https://drive.google.com/file/d/1HpsIyPjQF8_LHeaU7j_3b9sB377NCbSw/view?usp=sharing)
+📄 Resume [https://drive.google.com/file/d/1HpsIyPjQF8_LHeaU7j_3b9sB377NCbSw/view?usp=sharing](https://drive.google.com/file/d/1HpsIyPjQF8_LHeaU7j_3b9sB377NCbSw/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
