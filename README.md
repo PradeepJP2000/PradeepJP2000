@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Science Engineering student, who is fascinated towards technology</h3>
 <br><br>
 
-👨‍💻 All of my projects are available at [pradeepjp2000.github.io/Portfolio/](pradeepjp2000.github.io/Portfolio/)
+👨‍💻 All of my projects are available at https://pradeepjp2000.github.io/Portfolio/
 
 💬 Ask me about **Java | C | HTML | CSS | SQL**
 
