@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-jp-2000)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jppradeep2000@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E50914?style=for-the-badge&logo=react&logoColor=white)]([https://pradeep-jp-2000.github.io](https://www.google.com/url?sa=E&q=https%3A%2F%2Fpradeepjp2000.github.io%2Fportfolio_updated%2F))
+[![Portfolio](https://img.shields.io/badge/Portfolio-E50914?style=for-the-badge&logo=react&logoColor=white)]([[https://pradeep-jp-2000.github.io](https://pradeepjp2000.github.io/portfolio/)](https://www.google.com/url?sa=E&q=https%3A%2F%2Fpradeepjp2000.github.io%2Fportfolio_updated%2F))
 [![Location](https://img.shields.io/badge/Coimbatore-India-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Coimbatore,+India)
 
 **Senior Software Engineer** @ [Responsive](https://www.responsive.io) (formerly RFPIO)  
